@@ -1,0 +1,11 @@
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/users/role/route": "app/api/users/role/route.js",
+  "/api/street_predictions/route": "app/api/street_predictions/route.js",
+  "/Login/page": "app/Login/page.js",
+  "/map/page": "app/map/page.js",
+  "/dashboard/reports/page": "app/dashboard/reports/page.js",
+  "/dashboard/users/page": "app/dashboard/users/page.js",
+  "/dashboard/predictions/page": "app/dashboard/predictions/page.js",
+  "/dashboard/map/page": "app/dashboard/map/page.js"
+}
